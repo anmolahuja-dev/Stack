@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+C:\Users\anmol\source\repos\Stack\Stack\Stack.cpp(106,10): warning C4129: 'T': unrecognized character escape sequence
+  Stack.vcxproj -> C:\Users\anmol\source\repos\Stack\Debug\Stack.exe
