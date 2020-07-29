@@ -13,6 +13,10 @@ public:
 	int stackTop();
 	bool isEmpty();
 	bool isFull();
+	bool isParanthesisMatching(char *s);
+	//char* convertToPostfix(char* infix);
+	char* convertToPostfixAdv(char* infix);
+	int eval(char* postfix);
 	void display();
 	~Stack();
 };
